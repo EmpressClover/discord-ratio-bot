@@ -32,15 +32,12 @@ A simple Discord bot that helps track win/loss ratios for your server members.
    npm install
    ```
 3. Create a Discord bot and get your token from the [Discord Developer Portal](https://discord.com/developers/applications)
-4. Replace 'YOUR_BOT_TOKEN' in index.js with your bot token, it's at the very bottom of the file
+4. Replace 'your bot' in index.js with your bot token, it's at the very bottom of the file
 5. Run the bot:
    ```bash
    npm start
    ```
 
-## Dependencies 📦
-- discord.js: ^14.14.1
-- Node.js: >=16.x
 
 ## Support 💕
 
