@@ -4,7 +4,6 @@ const path = require('path');
 
 // Hello!
 // This is a simple Discord bot that helps track win/loss ratios for a server.
-// It's a straightforward bot
 // If you have any requests or questions, feel free to reach out to me on Discord: lilyakane ♥
 
 const client = new Client({
