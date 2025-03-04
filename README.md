@@ -7,7 +7,7 @@ A simple Discord bot that helps track win/loss ratios for your server members.
 - **Track Win/Loss Ratios**: Keep track of wins and losses for each player
 - **Season System**: Archive and reset stats with a seasonal system
 - **Multiple Updates**: Add multiple wins/losses in a single command
-- **Clean Display**: View nicely formatted statistics sorted by winrate
+- **Documented**: The code is documented with notes on what does what
 - **Server Specific**: Each Discord server maintains its own separate stats
 
 ## Commands 📝
