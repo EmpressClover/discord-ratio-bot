@@ -1,0 +1,15 @@
+{
+  "name": "mvp-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot for tracking win/loss ratios",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "ratios": {
+    "server_id_1": {
+      "player1": {
+        "wins": 5,
+        "losses": 2
+      },
+      "player2": {
+        "wins": 3,
+        "losses": 4
+      }
+    },
+    "server_id_2": {
+      "player3": {
+        "wins": 1,
+        "losses": 1
+      },
+      "player4": {
+        "wins": 8,
+        "losses": 2
+      }
+    },
+    "1252090595380297850": {
+      "akane": {
+        "wins": 2,
+        "losses": 0
+      }
+    }
+  },
+  "seasons": {
+    "server_id_1": [
+      {
+        "number": 1,
+        "date": "2024-03-20T12:00:00.000Z",
+        "data": {
+          "player1": {
+            "wins": 10,
+            "losses": 5
+          },
+          "player2": {
+            "wins": 7,
+            "losses": 8
+          }
+        }
+      }
+    ],
+    "1252090595380297850": []
+  }
+}
